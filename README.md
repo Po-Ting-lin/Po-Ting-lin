@@ -1,4 +1,4 @@
-### Hi
+### 🌱🌱🌱
 
 <!--
 **Po-Ting-lin/Po-Ting-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Po-Ting-lin&show_icons=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Po-Ting-lin&langs_count=4&layout=compact)
